@@ -1,6 +1,6 @@
 module github.com/wagoodman/dive
 
-go 1.24
+go 1.25
 
 require (
 	github.com/awesome-gocui/gocui v1.1.0
@@ -11,7 +11,7 @@ require (
 	github.com/dustin/go-humanize v1.0.1
 	github.com/fatih/color v1.18.0
 	github.com/google/uuid v1.6.0
-	github.com/klauspost/compress v1.18.0
+	github.com/klauspost/compress v1.20.3
 	github.com/logrusorgru/aurora/v4 v4.0.0
 	github.com/lunixbochs/vtclean v1.0.0
 	github.com/mitchellh/go-homedir v1.1.0
